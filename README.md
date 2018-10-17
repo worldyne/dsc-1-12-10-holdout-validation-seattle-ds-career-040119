@@ -7,7 +7,6 @@ In this lesson, we shall look at the basic model validation technique knows as h
 ## Objectives
 You will be able to:
 
-    
 * Understand the concept of holdout validation and why it is used
 * Understand the implementation of  holdout validation
 
